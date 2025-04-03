@@ -42,6 +42,7 @@ function HomePage() {
       setError('Error processing URL. Please try again.');
     }
   };
+  
 
   return (
     <div className="App-header">
